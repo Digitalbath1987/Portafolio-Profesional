@@ -1,0 +1,6 @@
+C:\Users\Digital\Desktop\proyecto\Helper\bin\Release\Helper.dll
+C:\Users\Digital\Desktop\proyecto\Helper\bin\Release\Helper.pdb
+C:\Users\Digital\Desktop\proyecto\Helper\obj\Release\Helper.csprojAssemblyReference.cache
+C:\Users\Digital\Desktop\proyecto\Helper\obj\Release\Helper.csproj.CoreCompileInputs.cache
+C:\Users\Digital\Desktop\proyecto\Helper\obj\Release\Helper.dll
+C:\Users\Digital\Desktop\proyecto\Helper\obj\Release\Helper.pdb

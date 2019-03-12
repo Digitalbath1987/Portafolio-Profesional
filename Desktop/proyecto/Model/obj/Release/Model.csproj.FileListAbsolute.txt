@@ -1,0 +1,13 @@
+C:\Users\Digital\Desktop\proyecto\Model\bin\Release\Model.dll
+C:\Users\Digital\Desktop\proyecto\Model\bin\Release\Model.pdb
+C:\Users\Digital\Desktop\proyecto\Model\bin\Release\EntityFramework.dll
+C:\Users\Digital\Desktop\proyecto\Model\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Digital\Desktop\proyecto\Model\bin\Release\Helper.dll
+C:\Users\Digital\Desktop\proyecto\Model\bin\Release\Helper.pdb
+C:\Users\Digital\Desktop\proyecto\Model\bin\Release\EntityFramework.xml
+C:\Users\Digital\Desktop\proyecto\Model\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Digital\Desktop\proyecto\Model\obj\Release\Model.csprojAssemblyReference.cache
+C:\Users\Digital\Desktop\proyecto\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+C:\Users\Digital\Desktop\proyecto\Model\obj\Release\Model.csproj.CopyComplete
+C:\Users\Digital\Desktop\proyecto\Model\obj\Release\Model.dll
+C:\Users\Digital\Desktop\proyecto\Model\obj\Release\Model.pdb
